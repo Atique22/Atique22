@@ -41,11 +41,6 @@ I want to work in a `conducive environment` where hard work and honest efforts a
 
 
 
-
-
-
-
-
 <!--
 **Atique22/Atique22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="https://komarev.com/ghpvc/?username=Atique22e&style=flat-square&color=blue" alt=""/>
