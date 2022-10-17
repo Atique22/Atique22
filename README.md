@@ -1,5 +1,14 @@
 ### Hi there 👋 Atique Ahmad 
 
+### A passionate developer
+
+```js
+🔭 I am currently pursuing a Bachelor of `Computer Engineering` from `Information Technology University (ITU) Lahore` 
+having both Computer hardware and Software engineering knowledge. 
+I am (a `Full-stack developer`) interested in building websites (web applications).
+I want to work in a `conducive environment` where hard work and honest efforts are appreciated and rewarded.
+```
+
 <!--
 **Atique22/Atique22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
