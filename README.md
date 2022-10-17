@@ -15,10 +15,6 @@
   <h2>Hi 👋 Atique Ahmad there! </h2>
 </div>
 
-
-
-### <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> A passionate developer
-
 ```JS
 🔭 I am currently pursuing a Bachelor of "Computer Engineering" from `Information Technology University (ITU) Lahore` 
 having both Computer hardware and Software engineering knowledge. 
@@ -43,6 +39,8 @@ I want to work in a `conducive environment` where hard work and honest efforts a
 **Atique22/Atique22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="https://komarev.com/ghpvc/?username=Atique22e&style=flat-square&color=blue" alt=""/>
 
+
+### <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> A passionate developer
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
