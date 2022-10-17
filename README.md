@@ -10,8 +10,18 @@ I want to work in a `conducive environment` where hard work and honest efforts a
 
 ```
 ### 🌐 Connect with me:
-[LinkedIn ](https://www.linkedin.com/in/atiqueahmad/)
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/atiqueahmad/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.sitepoint.com/github-profile-readme/your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://www.sitepoint.com/github-profile-readme/your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 
 
@@ -22,6 +32,7 @@ I want to work in a `conducive environment` where hard work and honest efforts a
 
 <!--
 **Atique22/Atique22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://komarev.com/ghpvc/?username=Atique22e&style=flat-square&color=blue" alt=""/>
 
 Here are some ideas to get you started:
 
