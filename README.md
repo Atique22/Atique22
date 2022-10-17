@@ -1,15 +1,3 @@
-### Hi 👋 Atique Ahmad there! 
-
-### <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> A passionate developer
-
-```js
-🔭 I am currently pursuing a Bachelor of `Computer Engineering` from `Information Technology University (ITU) Lahore` 
-having both Computer hardware and Software engineering knowledge. 
-I am (a `Full-stack developer`) interested in building websites (web applications).
-I want to work in a `conducive environment` where hard work and honest efforts are appreciated and rewarded.
-
-```
-### 🌐 Connect with me:
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -25,7 +13,23 @@ I want to work in a `conducive environment` where hard work and honest efforts a
   </a>
   </div>
   
+  <h2>Hi 👋 Atique Ahmad there! </h2>
 </div>
+
+
+
+### <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> A passionate developer
+
+```js
+🔭 I am currently pursuing a Bachelor of `Computer Engineering` from `Information Technology University (ITU) Lahore` 
+having both Computer hardware and Software engineering knowledge. 
+I am (a `Full-stack developer`) interested in building websites (web applications).
+I want to work in a `conducive environment` where hard work and honest efforts are appreciated and rewarded.
+
+```
+
+
+
 
 
 
