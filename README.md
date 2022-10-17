@@ -1,6 +1,6 @@
 ### Hi 👋 Atique Ahmad there! 
 
-### A passionate developer
+### <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> A passionate developer
 
 ```js
 🔭 I am currently pursuing a Bachelor of `Computer Engineering` from `Information Technology University (ITU) Lahore` 
@@ -9,14 +9,8 @@ I am (a `Full-stack developer`) interested in building websites (web application
 I want to work in a `conducive environment` where hard work and honest efforts are appreciated and rewarded.
 
 ```
-###🌐 Connect with me:
-
-
-
-
-
-
-
+### 🌐 Connect with me:
+[LinkedIn ](https://www.linkedin.com/in/atiqueahmad/)
 
 
 
