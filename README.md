@@ -11,6 +11,9 @@
       <a href="https://twitter.com/atiqueahmadch">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
       </a>
+     <a href="">
+        <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=Instagram&logoColor=white" alt="Gmail Badge"/>
+      </a>
       <h2>Hi 👋 Atique Ahmad here! </h2>
    </div>
 </div>
