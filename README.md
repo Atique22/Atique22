@@ -55,10 +55,10 @@ I want to work in a `conducive environment` where hard work and honest efforts a
 <!-- PROFILE STATES-->
 <h2 align="left">Profile Stats</h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/atique22/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atique22&&show_icons=true&title_color=f1e05a&icon_color=03A87C&text_color=ffffff&bg_color=000000&border_radius=0.4rem&layout=compact&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/atique22/">
   <img align="center"  src="https://github-readme-stats.vercel.app/api?username=atique22&&show_icons=true&title_color=f1e05a&icon_color=f1e05a&text_color=ffffff&bg_color=000000&border_radius=0.2rem&show_icons=true&theme=radical&hide_rank" />
 </a>
 
