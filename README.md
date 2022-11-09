@@ -12,11 +12,11 @@
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
       </a>
      <a href="">
-        <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=Instagram&logoColor=white" alt="Gmail Badge"/>
+        <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
       </a>
     <!-- PROFILE VIEW COUNT -->
       <a href="https://github.com/atique22">
-          <img src="https://komarev.com/ghpvc/?username=atique22&style=for-the-badge">
+          <img src="https://komarev.com/ghpvc/?username=atique22&style=for-the-badge"  alt="Profile views">
       </a>
       <h2>Hi 👋 Atique Ahmad here! </h2>
    </div>
