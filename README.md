@@ -11,7 +11,7 @@
       <a href="https://twitter.com/atiqueahmadch">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
       </a>
-     <a href="">
+     <a href="https://github.com/atique22">
         <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
       </a>
     <!-- PROFILE VIEW COUNT -->
