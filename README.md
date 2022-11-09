@@ -14,6 +14,10 @@
      <a href="">
         <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=Instagram&logoColor=white" alt="Gmail Badge"/>
       </a>
+    <!-- PROFILE VIEW COUNT -->
+      <a href="https://github.com/atique22">
+          <img src="https://komarev.com/ghpvc/?username=atique22&style=for-the-badge">
+      </a>
       <h2>Hi 👋 Atique Ahmad here! </h2>
    </div>
 </div>
@@ -46,10 +50,7 @@ I want to work in a `conducive environment` where hard work and honest efforts a
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)&nbsp;
 
 
-<!-- PROFILE VIEW COUNT -->
-<a href="https://github.com/akifejaz">
-    <img src="https://komarev.com/ghpvc/?username=atique22&style=for-the-badge">
-</a>
+
 
 
 <!-- PROFILE STATES-->
