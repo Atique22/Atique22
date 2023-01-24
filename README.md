@@ -52,22 +52,6 @@ I want to work in a `conducive environment` where hard work and honest efforts a
 
 
 
-
-<!-- PROFILE STATES-->
-<h2 align="left">Profile Stats</h2>
-<br/><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/atique22/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atique22&&show_icons=true&title_color=f1e05a&icon_color=03A87C&text_color=ffffff&bg_color=000000&border_radius=0.4rem&layout=compact&show_icons=true&theme=radical" />
-</a>
-<br/><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/atique22/">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=atique22&&show_icons=true&title_color=f1e05a&icon_color=f1e05a&text_color=ffffff&bg_color=000000&border_radius=0.2rem&show_icons=true&theme=radical&hide_rank" />
-</a>
-
-
-
 <!--
 **Atique22/Atique22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="https://komarev.com/ghpvc/?username=Atique22e&style=flat-square&color=blue" alt=""/>
