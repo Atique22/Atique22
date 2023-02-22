@@ -11,11 +11,11 @@
       <a href="https://twitter.com/atiqueahmadch">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
       </a>
-     <a href="https://github.com/atique22">
+     <a href="https://atique22.github.io/AtiquePortfolio.github.io/">
         <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio Badge"/>
       </a>
     <!-- PROFILE VIEW COUNT -->
-      <a href="https://github.com/atique22">
+      <a href="https://atique22.github.io/AtiquePortfolio.github.io/">
           <img src="https://komarev.com/ghpvc/?username=atique22&style=for-the-badge"  alt="Profile views">
       </a>
       <h2>Hi 👋 Atique Ahmad here! </h2>
