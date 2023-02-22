@@ -12,7 +12,7 @@
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
       </a>
      <a href="https://github.com/atique22">
-        <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=Instagram&logoColor=white" alt="Portfolio Badge"/>
+        <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio Badge"/>
       </a>
     <!-- PROFILE VIEW COUNT -->
       <a href="https://github.com/atique22">
