@@ -29,6 +29,10 @@
 having both Computer hardware and Software engineering knowledge.
 
 ```
+  <a href="https://atique22.github.io/AtiquePortfolio.github.io/">
+     <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="1050" height="300"/>
+  </a>
+
 
 ---
 
