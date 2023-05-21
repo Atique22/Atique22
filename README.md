@@ -25,8 +25,14 @@
 </div>
 
 ```JS
-🔭 I am currently pursuing a Bachelor of "Computer Engineering" from `Information Technology University (ITU) Lahore` 
-having both Computer hardware and Software engineering knowledge.
+🔭 Motivated and eager fresh graduate in Computer Engineering with hands-on experience in the industry. 
+Throughout my studies, I actively sought opportunities to work in real-world settings through internships and industry projects. 
+These experiences provided me with practical knowledge and skills in software development, troubleshooting, and debugging. 
+I can effectively apply theoretical concepts to practical solutions. As a quick learner and strong problem solver, 
+I am excited to contribute my skills and make a positive impact in the field. 
+Let's connect and discuss how my industry experience and technical expertise can benefit your team.
+Top skills
+Android Development • Graphic Design • Computer Engineering • Web Development • Software Development
 
 ```
   <a href="https://atique22.github.io/AtiquePortfolio.github.io/">
