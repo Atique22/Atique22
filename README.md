@@ -32,7 +32,7 @@ I can effectively apply theoretical concepts to practical solutions. As a quick 
 I am excited to contribute my skills and make a positive impact in the field. 
 Let's connect and discuss how my industry experience and technical expertise can benefit your team.
 Top skills
-Android Development • Graphic Design • Computer Engineering • Web Development • Software Development
+ • Android Development   • Graphic Design   • Computer Engineering   • Web Development   • Software Development
 
 ```
   <a href="https://atique22.github.io/AtiquePortfolio.github.io/">
