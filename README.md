@@ -65,14 +65,16 @@ Top skills
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)&nbsp;
 
 
-<!-- PROFILE STATES-->
-<h2 align="left">Profile Stats</h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atique22&&show_icons=true&title_color=f1e05a&icon_color=03A87C&text_color=ffffff&bg_color=000000&border_radius=0.4rem&layout=compact&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=atique22&&show_icons=true&title_color=f1e05a&icon_color=f1e05a&text_color=ffffff&bg_color=000000&border_radius=0.2rem&show_icons=true&theme=radical&hide_rank" />
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=atique22&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/atique22/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atique22&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+<br />
+<br />
+
+<a href="https://twitter.com/AtiqueAhmadCh">
+  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
 <!--
