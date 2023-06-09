@@ -65,7 +65,15 @@ Top skills
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)&nbsp;
 
 
+<!-- PROFILE STATES-->
+<h2 align="left">Profile Stats</h2>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atique22&&show_icons=true&title_color=f1e05a&icon_color=03A87C&text_color=ffffff&bg_color=000000&border_radius=0.4rem&layout=compact&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=atique22&&show_icons=true&title_color=f1e05a&icon_color=f1e05a&text_color=ffffff&bg_color=000000&border_radius=0.2rem&show_icons=true&theme=radical&hide_rank" />
+</a>
 
 <!--
 **Atique22/Atique22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
