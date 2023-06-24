@@ -32,9 +32,11 @@
    </div>
 </div>
 
+<!--   grid-snake -->
+![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
 
   <a href="https://atique22.github.io/AtiquePortfolio.github.io/">
-     <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="1050" height="300"/>
+     <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="875" height="250"/>
   </a>
 
 
