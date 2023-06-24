@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Atique+Ahmad;+Welcome+to+My+Profile!;Computer+Engineer;Programming+experience;Graphic+Designer;Always+learning+new+things+;Android+Developer;Web+Develop+community+member;Software+Develop;)](https://git.io/typing-svg)
 
 <div id="header" align="center">
    <a href="https://atique22.github.io/AtiquePortfolio.github.io/">
@@ -20,18 +21,10 @@
       <a href="https://atique22.github.io/AtiquePortfolio.github.io/">
           <img src="https://komarev.com/ghpvc/?username=atique22&style=for-the-badge"  alt="Profile views">
       </a>
-      <h2>Hi 👋 Atique Ahmad here! </h2>
    </div>
 </div>
 
-```JS
-🔭 
- 
 
-Top skills
- • Android Development   • Graphic Design   • Computer Engineering   • Web Development   • Software Development
-
-```
   <a href="https://atique22.github.io/AtiquePortfolio.github.io/">
      <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="1050" height="300"/>
   </a>
