@@ -1,5 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Atique+Ahmad;+Welcome+to+My+Profile!;Computer+Engineer;Programming+experience;Graphic+Designer;Always+learning+new+things+;Android+Developer;Web+Developer+community+member;Software+Developer;)](https://git.io/typing-svg)
 
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 <div id="header" align="center">
    <a href="https://atique22.github.io/AtiquePortfolio.github.io/">
      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
