@@ -8,7 +8,7 @@
 ```mermaid
 graph TD;
     Atique's-Courses,Self-Learning-Skills,and-Expertise-->Courses;
-    Atique's-Courses,Self-Learning-Skills,and-Expertise-->Skills-and-Expertise;
+    Atique's-Courses,Self-Learning-Skills,and-Expertise-->Expertise-&-Self-Learning-Skills;
    Courses-->Software-Related;
    Courses-->Networking-Related;
    Courses-->Hardware-Related;
