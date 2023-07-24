@@ -4,66 +4,6 @@
 <br />
 <br />
 
- 
-```mermaid
-graph TD;
-    Atique's-Courses,Self-Learning-Skills,and-Expertise-->Courses;
-    Atique's-Courses,Self-Learning-Skills,and-Expertise-->Expertise-&-Self-Learning-Skills;
-   Courses-->Software-Related;
-   Courses-->Networking-Related;
-   Courses-->Hardware-Related;
-   Courses-->Computer-Science-Related;
-
-   Software-Related-->Computing-Fundamentals-&-Programming;
-   Software-Related-->Object-Oriented-Programming;
-   Software-Related-->Data-Structures-&-Algorithm;
-   Software-Related-->Database-Management-System;
-   Software-Related-->Software-Engineering;
-   Software-Related-->Software-Quality-Assurance;
-   Software-Related-->Mobile-Application-and-Development;
-   Software-Related-->Computer-Aided-Engineering-Design;
-
-   Networking-Related-->Computer-Communication-&-Networks;
-   Networking-Related-->System-&-Network-Security;
-
-
-   Hardware-Related-->Digital-Logic-Design;
-   Hardware-Related-->Digital-System-Design;
-   Hardware-Related-->Computer-Organization-&-Architecture;
-   Hardware-Related-->Operating-Systems;
-   Hardware-Related-->Embedded-Systems;
-   Hardware-Related-->Advanced-Digital-Systems-Design;
-   Hardware-Related-->Electronics-Workbench;
-   Hardware-Related-->Microcontrollers-&-Interfacing;
-   
-   Computer-Science-Related-->Machine-Learning;
-   Computer-Science-Related-->Signals-&-Systems;
-   Computer-Science-Related-->Digital-Signal-Processing;
-   Computer-Science-Related-->Cloud-Computing-with-Big-Data-Applications;
-
-   Expertise-&-Self-Learning-Skills-->Web-Development
-   Web-Development-->Front-End
-   Web-Development-->Back-End
-   Web-Development-->Application-Design
-   
-   Front-End-->HTML5
-   Front-End-->CSS3
-   Front-End-->JavaScript
-   Front-End-->Bootstrap
-   Front-End-->Tailwind-CSS
-   Front-End-->React-JS
-   
-   Back-End-->JavaScript
-   Back-End-->PHP
-   Back-End-->Node.js
-   Back-End-->GoLang
-   Back-End-->Python-with-Django
-   Back-End-->MongoDB/MySQL
-   
-   Application-Design-->Figma
-
-
-
 ```
 
 <br />
