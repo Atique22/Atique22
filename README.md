@@ -23,7 +23,7 @@
       <a href="https://twitter.com/atiqueahmadch">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
       </a>
-     <a href="https://atique22.github.io/AtiquePortfolio.github.io/">
+     <a href="https://atique22.github.io/portfolio-atq/">
         <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio Badge"/>
       </a>
     <!-- PROFILE VIEW COUNT -->
