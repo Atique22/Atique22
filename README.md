@@ -33,15 +33,7 @@
    </div>
 </div>
 
-<!--   grid-snake -->
-![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
 
-  <a href="https://atique22.github.io/AtiquePortfolio.github.io/">
-     <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="875" height="250"/>
-  </a>
-
-
----
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -64,17 +56,6 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)&nbsp;
 
 
-
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=atique22&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/atique22/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atique22&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-<br />
-<br />
-
-<a href="https://twitter.com/AtiqueAhmadCh">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
 
 <!--
 **Atique22/Atique22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
