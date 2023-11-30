@@ -10,7 +10,7 @@
 <br />
 
 <div id="header" align="center">
-   <a href="https://atique22.github.io/AtiquePortfolio.github.io/">
+   <a href="https://atique22.github.io/atiquedesigns/">
      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   </a>
   <div id="badges">
@@ -27,7 +27,7 @@
         <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio Badge"/>
       </a>
     <!-- PROFILE VIEW COUNT -->
-      <a href="https://atique22.github.io/portfolio-atq/">
+      <a href="https://atique22.github.io/atiquedesigns/">
           <img src="https://komarev.com/ghpvc/?username=atique22&style=for-the-badge"  alt="Profile views">
       </a>
    </div>
