@@ -1,18 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Atique+Ahmad;+Welcome+to+My+Profile!;Computer+Engineer;Programming+experience;Graphic+Designer;Always+learning+new+things+;Android+Developer;Web+Developer+community+member;Software+Developer;)](https://git.io/typing-svg)
-
-<br />
-<br />
-<br />
-
-
-<br />
-<br />
-<br />
 
 <div id="header" align="center">
-   <a href="https://atique22.github.io/atiquedesigns/">
+<!--    <a href="https://atique22.github.io/atiquedesigns/">
      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  </a>
+  </a> -->
   <div id="badges">
       <a href="https://www.linkedin.com/in/atiqueahmad/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -35,7 +25,7 @@
 
 
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
